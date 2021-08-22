@@ -1,0 +1,17 @@
+body{
+    background-color: rgb(40, 40, 43);
+}
+
+main{
+    width:90%;
+   
+    margin: 0 auto;
+    margin-top: 5rem;
+    padding: 3rem;
+    background-color: darkkhaki;
+    text-align: center;
+}
+
+#display{
+    font-size: 1.3rem;
+}
